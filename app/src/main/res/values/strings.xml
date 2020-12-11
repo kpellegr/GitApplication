@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitApplication</string>
+    <string name="button_label">Hello world!</string>
 </resources>
